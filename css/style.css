@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-family: "Montserrat", sans-serif;
+}
+
+.weight {
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  color: #11999E;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 10%;
+  border-width: 15px;
+  color: grey;
+}
+
+.Description {
+  line-height: 2;
+  margin: 0 25% 8% 25%;
+}
+
+.skills {
+  margin-top: 8%;
+}
+
+.contact-me {
+  line-height: 2;
+  margin-top: 8%;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 70px;
+  right: 400px;
+}
+
+.skill-row {
+  margin: 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.Harshit {
+  width: 20%;
+}
+
+.Design {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Writing {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.once {
+  height: 2500px;
+}
+
+.bottom-container {
+  padding: 50px;
+  margin-top: 50px;
+  background-color: #98ded9;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.footer-link {
+  margin: 20px;
+  text-decoration: none;
+}
+
+.copyright {
+  padding: 20px;
+  color: #EAF6F6;
+  font-size: 0.79rem;
+}
+
+.BUTTON {
+  margin: 50px auto;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #FFFFFF;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  padding: 20px;
+  background-color: #66BFBF;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON:hover {
+  background: #66DAF6;
+  border: solid #66BFBF 1px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}

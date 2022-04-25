@@ -1,0 +1,52 @@
+body {
+  text-align: center;
+  background-color: #EAF6F6;
+  line-height: 2;
+  font-family: 'Marriweather-sans', sans-serif;
+}
+
+hr {
+  background-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 8%;
+}
+
+form {
+  width: 300px;
+  margin: auto;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.3rem;
+}
+
+h3 {
+  font-size: 1.8rem;
+  text-decoration: underline;
+  color: #66BFBF;
+  margin: 100px auto 50px auto;
+}
+
+img{
+  float: left;
+}
+
+.Telephone {
+  float: left;
+  width: 200px;
+}
+
+.body{
+  padding-top: 70px;
+}
+
+.contact-me {
+  margin: auto;
+  width: 500px;
+  padding-bottom: 100px;
+}
